@@ -19,3 +19,13 @@ To overcome the above problem we are building a model which is used for the prev
  Basically, skin disease diagnosis depends on the different characteristics like colour, shape, texture etc.
  Here the person can capture the images of skin and then the image will be sent the trained model. 
 The model analyses the image and detect whether the person is having skin disease or not.
+
+
+Reference link
+https://www.nature.com/articles/s41598-021-84593-z
+https://www.researchgate.net/publication/362845514_Performance_Evaluation_of_Deep_Learning_Techniques_for_Automated_Skin_Lesion_Diagnosis
+https://www.researchgate.net/publication/365227490_Reliable_detection_of_eczema_areas_for_fully_automated_assessment_of_eczema_severity_from_digital_camera_images
+
+
+
+
