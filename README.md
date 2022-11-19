@@ -27,8 +27,6 @@ https://www.researchgate.net/publication/362845514_Performance_Evaluation_of_Dee
 https://www.researchgate.net/publication/365227490_Reliable_detection_of_eczema_areas_for_fully_automated_assessment_of_eczema_severity_from_digital_camera_images
 
 Technical Architecture
-![Technical Architecture](https://user-images.githubusercontent.com/113376713/202138353-8bf304a6-6911-494f-aa8d-30506f3e0b8c.png)
 
 
-
-
+GITUB DEMO VIDEO LINK:https://drive.google.com/file/d/1aL6IREVlPRSxBrO_ZKExKR-wS484DYR8/view?usp=drivesdk
