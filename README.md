@@ -30,3 +30,4 @@ Technical Architecture
 
 
 GITUB DEMO VIDEO LINK:https://drive.google.com/file/d/1aL6IREVlPRSxBrO_ZKExKR-wS484DYR8/view?usp=drivesdk
+YOUTUBE VIDEO LINK:https://youtu.be/fltHbRJKRys
